@@ -1,0 +1,4 @@
+- Programa escrito por Iago Victor Silva Costa;
+- O programa roda no Windows (10);
+- O programa foi desenvolvido no CodeBlocks;
+- O executável (versão mais atual) está na pasta bin/Debug/ -> ele é gerado automaticamente pelo CodeBlocks;

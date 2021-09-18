@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1625606202 source:c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho_de_implementacao01\colecao.c
+	"colecao.h"
+	<stdlib.h>
+
+1625606098 c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho_de_implementacao01\colecao.h
+
+1625606150 source:c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho_de_implementacao01\main.c
+	"colecao.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
